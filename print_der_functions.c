@@ -1,7 +1,4 @@
-#include "holberton.h"
-#include <stdarg.h>
-#include <stdlib.h>
-
+#include "main.h"
 /**
  * print_unsignedToBin - prints an integer.
  * @arg: argument

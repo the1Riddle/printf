@@ -1,6 +1,4 @@
 #include "main.h"
-#include <stdlib.h>
-#include <stdio.h>
 /**
  * printTypes - prints special characters
  * @next: character after the %
